@@ -4,8 +4,8 @@
 ![Python Version](https://img.shields.io/badge/python-3.9--3.12-blue.svg)
 
 ![Open Issues](https://img.shields.io/github/issues/)
-![Open PRs](https://img.shields.io/github/issues-pr/pdiwell/5.2-library-pipeline)
-![Last Commit](https://img.shields.io/github/last-commit/pdiwell/5.2-library-pipeline)
+![Open PRs](https://img.shields.io/github/issues-pr/pdiwell/5.2-library-pipeline/)
+![Last Commit](https://img.shields.io/github/last-commit/pdiwell/5.2-library-pipeline/)
 ![CI Pipeline Badge](https://github.com/pdiwell/5.2-library-pipeline/actions/workflows/ci.yml/badge.svg)
 
 <mark>*Replace the placeholder text above with your GitHub username and repo name*</mark>
